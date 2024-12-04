@@ -223,7 +223,7 @@
     /* Footer section */
 
     footer {
-        background-color: #ffffff;
+        background-color:#ffffff;
         height: 15vh;
         margin-top: 5rem;
         padding: 2rem 0;
@@ -251,7 +251,7 @@
         font-size: 1.6rem;
     }
     .footer-section .socials i:hover {
-        color: #6e0aef;
+        color: #672cb5;
         cursor: pointer;
     }
         /* sections section! */
@@ -299,7 +299,7 @@
 
    body {
         font-family: 'Arial', sans-serif;
-        background-color: #f0f0f0;
+        background-color:#f0f0f0;
         color: #333;
         display: flex;
         flex-direction: column;
@@ -525,6 +525,47 @@
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 
       }
+
+      .tech {
+
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 800px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+
+      .chal {
+
+        padding: 20px;
+        margin: 20px auto;
+        max-width: 800px;
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+
+
+      }
+
+    /* quizzes section */
+
+    .Quiz{
+
+        padding: 30px;
+        margin: 20px auto;
+        align-content: center;
+        
+        max-width: 800px;
+       
+        background-color: rgb(255, 255, 255);
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+      
+    }
+
 
 
  
